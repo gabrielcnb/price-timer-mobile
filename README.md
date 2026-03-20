@@ -33,7 +33,7 @@ React Native app that uses the device camera and on-device OCR to detect prices 
 **Prerequisites:** Node.js, Expo CLI, and either Expo Go or a physical device build (EAS).
 
 ```bash
-git clone https://github.com/YOUR_USER/price-timer-mobile.git
+git clone https://github.com/gabrielcnb/price-timer-mobile.git
 cd price-timer-mobile
 npm install
 npx expo start
